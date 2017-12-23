@@ -1,0 +1,14 @@
+1. CSV Unit Database Input
+  A. Produce Map with key from the first row of the CSV file.
+  B. Create Templates From Database CSV file.
+2. CSV Scenario Input
+  A. Create Commands and Units, with keys from the first row of the CSV file.
+3. BuildCommand
+  A. New units registered with Army.
+  B. Flag to "replace existing unit template" for upgrading mexes
+  C. Flag to "append to existing unit template" for upgrading ACU
+4. AssistCommand
+5. DestroyCommand
+  A. Simulate Ctrl-K
+6. ReclaimCommand
+  A. Add as part of production.
